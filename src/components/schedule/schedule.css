@@ -1,0 +1,13 @@
+.display{
+   display: flex;
+   justify-content: space-between;
+}
+
+.back-drop{
+   background-color: #fff;
+}
+
+.img-size{
+   width: 30px;
+   height: 30px;
+}
